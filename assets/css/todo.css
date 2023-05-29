@@ -1,0 +1,60 @@
+.judul{
+  border-left: 2px solid #AD8B73;
+  border-right: 2px solid #AD8B73;
+  border-bottom: 2px solid #AD8B73;
+}
+
+.text{
+  border: 3px solid #AD8B73;
+  height: 45px;
+  border-radius: 20px;
+  padding-left: 20px;
+  width: 70%;
+  &::placeholder {
+    color: #AD8B73;
+    padding-left: 10px;
+  }
+}
+
+.text:hover{
+  background-color: #fafafa;
+  border: 3px solid #4F200D;
+}
+
+/* CSS */
+.button-24 {
+  background: #AD8B73;
+  border: 2px solid #AD8B73;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Futura MD BT;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  margin-top: -3px;
+}
+
+.button-24:hover,
+.button-24:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #AD8B73;
+}
+
+.button-24:active {
+  opacity: .5;
+}
