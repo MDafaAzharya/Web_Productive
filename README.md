@@ -1,5 +1,7 @@
 <div align="center">
+    <h1> READ ME</h1>
     <img src="https://github.com/MDafaAzharya/Web_Productive/assets/125567760/e4763a6a-6167-45a4-997c-7c24c0e6f6f7" alt="" style="width:100px;">
+    <p> WEB PRODUCTIVE</p>
 </div>
 
 ## :computer: About Web
@@ -29,6 +31,9 @@
 - browse file di dalam folder database, namanya productive.sql
 - buka mesin pencari ketikan http://localhost/namafolder
 - Register lalu login
+
+##  :trophy: License
+[MIT license](https://opensource.org/licenses/MIT)
 
 
 
